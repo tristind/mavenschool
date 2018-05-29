@@ -6,7 +6,6 @@
 
   <groupId>nl.hu.rafaeldorzada.bep.friendspammer</groupId>
   <artifactId>2</artifactId>
-  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
